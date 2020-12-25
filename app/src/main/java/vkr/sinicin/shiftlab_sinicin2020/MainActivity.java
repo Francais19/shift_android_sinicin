@@ -1,5 +1,5 @@
 package vkr.sinicin.shiftlab_sinicin2020;
-
+// я лох
 import android.app.DatePickerDialog;
 import android.content.Intent;
 import android.graphics.Color;
